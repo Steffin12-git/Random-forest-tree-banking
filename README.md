@@ -214,7 +214,7 @@ pip install -U scikit-learn==1.5.1 pandas numpy matplotlib seaborn joblib
 
 ---
 
-## 🚀 Hire-Ready Highlights
+## 🚀 Highlights
 
 * Clean & reproducible **end-to-end ML pipeline**
 * Balanced handling of **class imbalance & calibration**
